@@ -1,0 +1,4 @@
+name: SIslandAd
+version: '1.0'
+main: com.spearforge.sIslandAd.SIslandAd
+api-version: '1.18'
